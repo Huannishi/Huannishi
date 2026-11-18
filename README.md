@@ -3,8 +3,8 @@
 <p align="center">在自己的服务器上折腾一切 —— 节点、监控、自动化。</p>
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Huannishi&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=9F9F9F&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huannishi&layout=compact&hide_border=true&title_color=A855F7&text_color=9F9F9F&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huannishi&show_icons=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=9F9F9F&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huannishi&layout=compact&hide_border=true&title_color=A855F7&text_color=9F9F9F&bg_color=0D1117" />
 </div>
 
 <div align="center">
